@@ -1,4 +1,4 @@
-class Jass::Esbuild::Minifier < Jass::Core
+class Jass::Esbuild::Minifier < Nodo::Core
   require 'esbuild'
   
   class << self
